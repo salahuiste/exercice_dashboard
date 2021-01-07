@@ -1,0 +1,97 @@
+{
+  "account_id": "AC58EHI6984",
+  "last_name": "SERRAKH",
+  "first_name": "Salah-Eddine",
+  "gender": "M",
+  "currenct_balance":11265.6,
+  "cards": [{
+      "cc_number": "4024007119793379",
+      "date_exp": "09/23",
+      "cvc": 526,
+      "holder_name": "SERRAKH Salah-Eddine",
+      "balance": 2569.65,
+      "currency": "EUR"
+    },
+    {
+      "cc_number": "4306929364230444",
+      "date_exp": "02/25",
+      "cvc": 368,
+      "holder_name": "SERRAKH Salah-Eddine",
+      "balance": 4596.65,
+      "currency": "USD"
+    }
+  ],
+  "transactions": [{
+      "id": "AEZ21E3355",
+      "date": "22/01/2021 02:04:66",
+      "total": 200,
+      "currency": "EUR",
+      "type": "credit",
+      "status":1
+    },
+    {
+      "id": "BR1Z1E3295",
+      "date": "20/01/2021 02:04:66",
+      "total": 200,
+      "currency": "USD",
+      "type": "debit",
+      "status":0
+    },
+    {
+      "id": "REZT1EH355",
+      "date": "12/01/2021 02:04:66",
+      "total": 10,
+      "currency": "EUR",
+      "type": "credit",
+      "status":-1
+    },
+    {
+      "id": "HAGT1EH557",
+      "date": "11/01/2021 01:04:66",
+      "total": 165.40,
+      "currency": "USD",
+      "type": "credit",
+      "status":-1
+    },
+    {
+      "id": "PUZVHEAS24",
+      "date": "10/01/2021 02:04:66",
+      "total": 698,
+      "currency": "EUR",
+      "type": "credit",
+      "status":0
+    },
+    {
+      "id": "YUSTQEBT21",
+      "date": "09/01/2021 06:04:66",
+      "total": 456.0,
+      "currency": "USD",
+      "type": "credit",
+      "status":0
+    },
+    {
+      "id": "BESTQQBT29",
+      "date": "08/01/2021 06:04:66",
+      "total": 26.02,
+      "currency": "USD",
+      "type": "credit",
+      "status":0
+    },
+    {
+      "id": "BSGTWECT2G",
+      "date": "07/01/2021 06:04:66",
+      "total": 123.0,
+      "currency": "EUR",
+      "type": "credit",
+      "status":0
+    },
+    {
+      "id": "KOSTQEBTS1",
+      "date": "09/01/2021 06:04:66",
+      "total": 456.0,
+      "currency": "USD",
+      "type": "debit",
+      "status":1
+    }
+  ]
+}
